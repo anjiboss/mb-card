@@ -1,0 +1,24 @@
+[
+  {
+    "userId": "anjiboss",
+    "password": "016725",
+    "info": {
+      "firstName": "Anji",
+      "lastName": "Boss"
+    },
+    "contact": {
+      "phoneNumber": "09045481505",
+      "alterPhoneNumber": "016725",
+      "email": "nhu.nhu.face@gmail.com",
+      "sns": {
+        "facebook": "https://facebook.com/anjitakashi",
+        "instagram": "https://www.instagram.com/tadashi.anji/",
+        "github": "https://github.com/anjiboss",
+        "twitter": null,
+        "customLink": null
+      }
+    },
+    "setting": null,
+    "quotes": "I am the Administrator and Just here for Testing"
+  }
+]

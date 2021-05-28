@@ -1,0 +1,14 @@
+.App {
+  text-align: center;
+}
+
+nav ul {
+  display: flex;
+  width: 99vw;
+  justify-content: space-around;
+}
+
+nav .link {
+  text-align: center;
+  width: 25%;
+}
